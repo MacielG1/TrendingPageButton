@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "GitHub Trending Button",
+  "version": "1.0",
+  "description": "Adds a button with a link to the GitHub Trending page",
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/"],
+      "js": ["content.js"]
+    }
+  ],
+  "browser_specific_settings": {
+  "gecko": {
+    "id": "macielg1-ghtrending@example.com"
+  }
+}
+}
