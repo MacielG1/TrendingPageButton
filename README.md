@@ -4,8 +4,8 @@ This is a very simple Chrome/Firefox extension that shows a button to the GitHub
 
 #### For Chrome:
 
-1. Download the .zip file from the [releases](https://github.com/MacielG1/TrendingPageButton/releases/latest)
-2. Extract the `TrendingGithub.zip` file.
+1. Download the `TrendingGithub.zip` file file from the [releases](https://github.com/MacielG1/TrendingPageButton/releases/latest)
+2. Extract the .zip file.
 3. Go to `chrome://extensions`.
 4. Enable the "Developer mode" toggle switch in the top right corner.
 5. Click on the "Load unpacked" button.
@@ -18,4 +18,3 @@ This is a very simple Chrome/Firefox extension that shows a button to the GitHub
 #### Preview:
 
 ![Screenshot 2024-08-06 103042](https://github.com/user-attachments/assets/4805dc1b-c7ee-47a8-84be-a3fc822d3a4c)
-
