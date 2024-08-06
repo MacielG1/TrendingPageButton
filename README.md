@@ -17,4 +17,5 @@ This is a very simple Chrome/Firefox extension that shows a button to the GitHub
 
 #### Preview:
 
-![Screenshot 2024-08-06 102428](https://github.com/user-attachments/assets/fc9abb92-ec75-4ff7-bba2-9fbeb0180ae2)
+![Screenshot 2024-08-06 103042](https://github.com/user-attachments/assets/4805dc1b-c7ee-47a8-84be-a3fc822d3a4c)
+
