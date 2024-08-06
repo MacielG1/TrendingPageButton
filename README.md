@@ -13,12 +13,8 @@ This is a very simple Chrome/Firefox extension that shows a button to the GitHub
 
 #### For Firefox:
 
-1. Download the .xpi file from the [releases](https://github.com/MacielG1/TrendingPageButton/releases/latest).
-2. Go to `about:addons`.
-3. Click on the gear icon in the top right corner and choose "Install Add-on From File".
-4. Select the .xpi file that was downloaded.
-5. Click the "Add" button to install the extension.
+1. Download & Add the Extension: https://addons.mozilla.org/en-US/firefox/addon/github-trending-button/
 
 #### Preview:
 
-![Screenshot 2024-07-13 190948](https://github.com/user-attachments/assets/bc898a96-84c8-4430-b1d8-b55b0dadabd3)
+![Screenshot 2024-08-06 102428](https://github.com/user-attachments/assets/fc9abb92-ec75-4ff7-bba2-9fbeb0180ae2)
