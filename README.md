@@ -1,4 +1,4 @@
-This is a very simple Chrome/Firefox extension that shows a button to the GitHub trending page, below the Recent Activity section on the GitHub dashboard.
+This is a very simple Chrome/Firefox extension that shows a button to the GitHub trending page
 
 ### How to Install the Extension:
 
