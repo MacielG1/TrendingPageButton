@@ -12,7 +12,7 @@ const defaultStyles = {
   backgroundColor: 'transparent',
   color: '#8d96a0',
   textDecoration: 'none',
-  borderRadius: '8px',
+  borderRadius: '6px',
   border: '1px solid #30363d',
   transition: 'background-color 0.3s, color 0.3s',
   maxWidth: '5rem',
